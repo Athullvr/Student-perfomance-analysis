@@ -6,7 +6,7 @@ This project analyzes a student performance dataset to understand how factors li
 The analysis includes visualizations, insights, and a conclusion based on the patterns found in the data.
 
 
-#📊 Insights
+#📊** Insights**
 
 1️⃣ Gender Distribution
 
@@ -45,7 +45,7 @@ The spread of study time is higher among excellent students, which shows varied 
 
 
 
-#🧾 Conclusion
+**🧾 Conclusion**
 
 This analysis highlights several key factors that influence student academic outcomes.
 The data shows that students with higher study hours, better attendance, and strong midterm performance consistently achieve better final grades.
